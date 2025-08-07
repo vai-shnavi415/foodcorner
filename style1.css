@@ -1,0 +1,52 @@
+body
+{
+  background-color:#c184d9;
+  font-family:Arial,sans-serif;
+  padding:0;
+  margin:0;
+}
+header
+{
+   background-color:#28023a;
+   color:white;
+   text-align:center;
+   padding:20px;
+}
+header h1
+{
+   font size:40px;
+}
+header p
+{
+   font size:20px;
+}
+nav ul
+{
+   background-color:#600b85;
+   list-style:none;
+   color:white;
+   text-align:center;
+   padding:20px;
+   display:flex;
+   justify-content:center;
+   margin:0;
+
+}
+nav ul li a
+{
+   text-decoration:none;
+   margin:20px;
+   color:#a3d6d6;
+}
+section
+{
+   padding:20px;
+}
+footer
+{
+   background-color:#e2e794;
+   color:black;
+   text-align:center;
+   padding:5px;
+}
+
